@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/demoSimpleReactJsCrud/static/css/main.a617e044.chunk.css",
+    "main.js": "/demoSimpleReactJsCrud/static/js/main.cda72738.chunk.js",
+    "main.js.map": "/demoSimpleReactJsCrud/static/js/main.cda72738.chunk.js.map",
+    "runtime-main.js": "/demoSimpleReactJsCrud/static/js/runtime-main.cea851c8.js",
+    "runtime-main.js.map": "/demoSimpleReactJsCrud/static/js/runtime-main.cea851c8.js.map",
+    "static/css/2.c0480a6a.chunk.css": "/demoSimpleReactJsCrud/static/css/2.c0480a6a.chunk.css",
+    "static/js/2.fc9796dc.chunk.js": "/demoSimpleReactJsCrud/static/js/2.fc9796dc.chunk.js",
+    "static/js/2.fc9796dc.chunk.js.map": "/demoSimpleReactJsCrud/static/js/2.fc9796dc.chunk.js.map",
+    "static/js/3.79c3983b.chunk.js": "/demoSimpleReactJsCrud/static/js/3.79c3983b.chunk.js",
+    "static/js/3.79c3983b.chunk.js.map": "/demoSimpleReactJsCrud/static/js/3.79c3983b.chunk.js.map",
+    "index.html": "/demoSimpleReactJsCrud/index.html",
+    "static/css/2.c0480a6a.chunk.css.map": "/demoSimpleReactJsCrud/static/css/2.c0480a6a.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/demoSimpleReactJsCrud/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.fc9796dc.chunk.js.LICENSE.txt": "/demoSimpleReactJsCrud/static/js/2.fc9796dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cea851c8.js",
+    "static/css/2.c0480a6a.chunk.css",
+    "static/js/2.fc9796dc.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.cda72738.chunk.js"
+  ]
+}
